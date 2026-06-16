@@ -20,9 +20,9 @@ A simple and clean ToDo application built with Flutter, designed to help users m
 ## Screenshots
 
 <p align="center">
-  <img src="/lib/assets/home page.jpg" width="200">
-  <img src="/lib/assets/add task.jpg" width="200">
-  <img src="/lib/assets/remove task.jpg" width="200">
+  <img src="/lib/assets/home page.jpg" width="100">
+  <img src="/lib/assets/add task.jpg" width="100">
+  <img src="/lib/assets/remove task.jpg" width="100">
 </p>
 
 ## Getting Started
