@@ -77,7 +77,7 @@ class _HomepageState extends State<Homepage> {
           backgroundColor: const Color.fromARGB(255, 243, 222, 36),
           title: //Padding(
               // padding: const EdgeInsets.only(top: 25),
-              Center(child: Text("Notes App", style: TextStyle(fontSize: 25))),
+              Center(child: Text("ToDo App", style: TextStyle(fontSize: 25))),
           //),
           elevation: 0,
         ),
